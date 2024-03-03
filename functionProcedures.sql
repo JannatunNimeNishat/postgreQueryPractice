@@ -43,3 +43,11 @@ SELECT delete_emp_by_id(29);
 
 
 
+---------------------- 20-6 Exploring Stored Procedure In PostgreSQL-----------------
+
+
+
+
+
+
+
